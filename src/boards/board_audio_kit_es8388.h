@@ -53,8 +53,8 @@
 #define BOARDS_BOARD_AUDIO_KIT_ES8388_H_
 
 
-#define ES8388_CFG_I2C  1
-#define ES8388_CFG_I2S  4
+#define ES8388_CFG_I2C  2
+#define ES8388_CFG_I2S  5
 
 
 /* on board led */
